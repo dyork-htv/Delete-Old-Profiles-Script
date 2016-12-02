@@ -1,3 +1,8 @@
+#These two scripts were just pasted into one single script, need to merge them.. any idea's?
+#Like delete non-exist AD/local user profiles
+#Follow that with an option to quit or continue
+#Next is delete any profiles over xx day (maybe we prompt for that value)?
+
 #<bcarter-htv>
  # Imports
 Import-Module ActiveDirectory
