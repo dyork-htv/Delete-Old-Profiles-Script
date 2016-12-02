@@ -2,7 +2,8 @@
 #Like delete non-exist AD/local user profiles
 #Follow that with an option to quit or continue
 #Next is delete any profiles over xx day (maybe we prompt for that value)?
-
+#Then it can return a list of potential profiles to delete and ask to proceed
+#Maybe we include the lastuse date so they can see just how old it is?
 #<bcarter-htv>
  # Imports
 Import-Module ActiveDirectory
